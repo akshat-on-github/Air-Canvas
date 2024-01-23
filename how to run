@@ -1,0 +1,6 @@
+download all the libraries and copy the whole path and save in a folder in C drive 
+
+to run the program open command prompt and copy the file path starting with a "cd/"
+  and then type "VirtualPainter.py"
+
+  voila , enjoy!!!
